@@ -1,0 +1,22 @@
+{
+    "name": "urs/usersregistration",
+    "description": "This package is for user registration and login",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.3",
+        "tymon/jwt-auth": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Urs\\Usersregistration\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sagarsheregar",
+            "email": "sagar.sheregar@xelpmoc.in"
+        }
+    ]
+    
+
+}
