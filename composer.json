@@ -16,7 +16,14 @@
             "name": "sagarsheregar",
             "email": "sagar.sheregar@xelpmoc.in"
         }
-    ]
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "URS\\usersregistration\\UserServiceProvider"
+            ]
+        }
+    },
     
 
 }
