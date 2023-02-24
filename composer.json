@@ -3,8 +3,8 @@
     "description": "This package is for user registration and login",
     "license": "MIT",
     "require": {
-        "php": "^7.0",
-        "tymon/jwt-auth": "^1.0"
+        "php": "^7.0|^8.0",
+        "tymon/jwt-auth": "^1.0|^2.0"
     },
     "autoload": {
         "psr-4": {
